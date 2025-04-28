@@ -16,7 +16,7 @@ const projects = [
     description: 'Music streaming app with real-time search, featured tracks, and recently played history.',
     techStack: ['HTML', 'CSS','Java Script','Web Audio API'],
     image: 'MUSIKO.png',
-    liveLink: 'https://musiko-3-xbpi-2cry6tj8d-shiva-guptas-projects-cc0b8aa0.vercel.app/',
+    liveLink: 'https://musiko-3.vercel.app/',
   },
   {
     id: 3,
